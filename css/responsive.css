@@ -1,0 +1,473 @@
+@media only screen and (min-width:2000px) and (max-width:2600px)
+{
+    .main_banner .top_banner .right_section .mid{padding-top: 500px;}
+    .main_banner .mob_set .right_section{top: 350px;}
+    .main_banner .top_banner .left_section img{left:-52%;}
+    .main_banner .top_banner .left_section img + img{left: -14%;}
+    .main_banner .feed .right{width: 34%;    margin-top: 90px;}
+    .main_banner .full_screen{height: 900px;}
+}
+@media only screen and (min-width:1701px) and (max-width:1895px){
+    .main_banner .full_screen h2{font-size: 19em;}
+}
+
+@media only screen and (max-width:1700px){
+    .main_banner .full_screen h2{font-size: 19em;}
+}
+@media only screen and (max-width:1660px){
+    .main_banner .top_banner .right_section .mid{padding-top: 30%; padding-bottom: 12px;}
+    .main_banner .full_screen h2{font-size: 14em}
+    .main_banner .mob_set img {max-width: 80%;}
+    .main_banner .full_screen{min-height: 680px;}
+    .main_banner .stories .right {padding-bottom: 70px;padding-right: 170px; padding-top: 26px;}
+    .main_banner .stories .left h2{margin-top: 136px;}
+    .main_banner .mob_set{text-align: left; padding-left: 5%;}
+    .main_banner .mob_set .left_bottom{width: 85%;padding-bottom: 80px;}
+    .main_banner .mob_set .left_bottom h2{font-size: 54px;letter-spacing: 3px; padding-top: 35px;}
+    .main_banner .stories{padding-left: 10%;}
+    .main_banner .your_readers .slider2 h2{font-size: 67px;line-height: 80px;}
+    .main_banner .your_readers .slider2 #port{max-width: 145px;}
+    .main_banner .your_readers{min-height: 680px;}
+    .main_banner .feed .left{margin-top: 130px;}
+    .main_banner .feed .left p{ font-size: 24px;line-height: 43px;}
+    /*    .main_banner .feed .left h2 {font-size: 83px;}*/
+    .main_banner .feed .left h5{font-size: 35px;}
+    .main_banner .feed .right{margin-top: 40px;}
+    .erreichen .right{margin-top: 50px; max-width: 460px;}
+    .made_with h2{font-size: 58px;}
+    .made_with p{font-size: 29px;}
+    .mehr_img{min-height: 690px}
+    .main_banner .mob_set .right_section{ top: 274px;}
+    .main_banner .top_banner .right_section h2{margin-top: 0;}
+    .main_banner .feed .right .anim { top: 64px;right: 33px;width: 287px;}
+    .erreichen .right .anim {position: absolute;top: 60px;right:40px;}
+    .erreichen .right .anim {width: 250px;}
+    .erreichen  .left{margin-top: 190px;}
+    .main_banner .full_screen h2{font-size: 17em;}
+    .main_banner .stories{padding-top: 0;}
+}
+@media only screen and (max-width:1460px){
+    .stories .anim_wrap{max-width: 80%;}
+    .main_banner .stories .right .anim{top: 68px;right: 43px;width: 71%;max-width: 100%;}
+    .main_banner .stories .right img{max-width: 100%;}
+    .main_banner .stories .right{padding-top: 127px;}
+    .main_banner .stories .left h2{margin-top: 80px;}
+    .main_banner .stories .right{padding-top: 47px;}
+    .main_banner .feed .right img {max-width: 90%;}
+    .main_banner .feed .right .anim{top: 61px;right: 79px;width: 51%;}
+    .erreichen .left{margin-top: 200px; width: 47%;}
+    .erreichen .left h2{font-size: 88px;}
+    .erreichen .left h6{margin-top: 13px;}
+    .erreichen .left p{margin-top: 16px;}
+    .main_banner .mob_set .right_section{top: 277px;}
+    .main_banner .full_screen h2{font-size: 16em;}
+    .erreichen .right{margin-right: 8%;}
+    .main_banner .stories{padding-top: 3.5%;}
+    .main_banner .stories .right:after{top: 24px;}
+}
+@media only screen and (max-width:1440px) and (max-height:700px){
+    .main_banner .mob_set .right_section{top: 310px;}
+}
+@media only screen and (max-width:1440px) and (max-height:640px){
+    .main_banner .mob_set .right_section{top: 330px;}
+}
+@media only screen and (max-width:1400px){
+    .main_banner .mob_set .right_section{ top: 277px;}
+    .main_banner .full_screen h2{font-size: 16em;}
+    .erreichen .left{ width: 46%; margin-top: 146px;}
+    .erreichen .left h2{font-size: 82px;}
+}
+@media only screen and (max-width:1366px){
+    .main_banner .mob_set .right_section{ top: 325px;}
+    .main_banner .top_banner .right_section .mid{padding-top: 28%; padding-bottom: 12px;}
+    .main_banner .full_screen h2{font-size: 14em;}
+    .main_banner .stories{ padding-top: 0;}
+    .main_banner .stories .right{padding-top: 34px;}
+    .main_banner .stories .left h2{margin-top: 60px;}
+}
+@media only screen and (max-width:1281px) /* container size */
+{
+    .main_banner .top_banner .left_section img{    left: -75%;}
+    .main_banner .top_banner .left_section img + img{left: -28%}
+    h2{font-size: 55px;}
+    .main_banner .mob_set .right_section{top: 340px;}
+    .main_banner .top_banner .right_section .mid {padding-top: 35%;}
+    .main_banner .stories .right{padding-right: 100px;}
+    .main_banner .full_screen h2{font-size: 13em;}
+    .erreichen .right{margin-right: 6%;}
+    .erreichen .left{margin-top: 150px;}
+    .erreichen .right{margin-top: 82px;}
+    .erreichen .left h2{font-size: 75px;}
+}
+@media only screen and (max-width:1280px) and (max-height:600px){
+    .main_banner .stories .right{padding-top: 5px;}
+    .main_banner .stories .left h2{margin-top: 27px;}
+}
+@media only screen and (max-width:1280px) and (min-height:760px){
+    .main_banner .stories{padding-top: 6.25%;}
+}
+
+@media only screen and (max-width:1024px) /* if tablate and mobile view is same */
+{
+    #full_wrapper{overflow-x: hidden;}
+    .main_section {height: auto;}
+    .main_banner{height: auto;position: relative;}
+    .main_banner .top_banner {height: 600px; position: relative;display: block;width: 100%;}
+    .main_banner .top_banner .left_section img {position: absolute;left: -57%;top: 0px;}
+    .main_banner .top_banner .right_section h1 {font-size: 80px;opacity: 1}
+    .main_banner .top_banner .right_section h2 {transform: translateX(0%);opacity: 1;margin-top: 10px;font-size: 40px;line-height: 40px;}
+    .main_banner .top_banner .right_section .mid {padding-top: 200px;}
+    .main_banner .top_banner .right_section {width: 45%;}
+
+    .main_banner .mob_set {width: 100%;position: relative;top: 0;text-align: center;padding-right: 0;float: left;display: block;margin-top: 50px;margin-bottom: 50px;}
+    .main_banner .mob_set img{max-width:550px;}
+    .main_banner .mob_set .right_section {top: 110px;right: -40px;}
+    .main_banner .mob_set .right_section h2{font-size: 40px;}
+    .btn {font-size: 18px;height: 55px;line-height: 54px;width: 250px;}
+    .main_banner .mob_set .right_section .btn {margin-top: 15px;}
+    .main_banner .mob_set .left_bottom {width: 100%;text-align: center;}
+    .main_banner .mob_set .left_bottom h2 {font-size: 50px;}
+    .main_banner .mob_set .left_bottom h3 {font-size: 45px;margin-top: 0;line-height: 50px;}
+    .main_banner .full_screen {width: 100%;min-height: auto;height: 500px;position: relative;transform: translateY(0px);margin-top: 50px;}
+    .main_banner .full_screen h2 {font-size: 180px;}
+    .main_banner .stories {min-height: auto;height: auto;position: relative;display: table;transform: translateY(0px);padding: 0px 20px;}
+    .main_banner .stories .left {width: 50%}
+    .main_banner .stories .left h2 {font-size: 80px;margin-top: 150px;}
+    .main_banner .stories .left p {font-size: 20px;line-height: 30px;}
+    .main_banner .stories .right {padding-right: 0;padding-top: 57px;position: relative;width: 50%;padding-top: 98px;}
+    .main_banner .stories .right:after {width: 322px;height: 200px;background-size: 100% 100%;}
+    .main_banner .stories .right img{max-width: 360px;}
+    .main_banner .your_readers {min-height: 770px;height: auto;position: relative;left: 0px;top: 0px;display: table;background-color: transparent;transform: translateY(0px);}
+    .main_banner .your_readers .slider1 {margin: auto;position: relative;height: auto;margin-top: 100px;}
+    .main_banner .your_readers .slider2 {text-align: right;position: relative;height: auto;transform: translateX(0px);margin-top: 140px;}
+    .main_banner .your_readers .slider3 {margin: auto;position: relative;height: auto;transform: translateX(0px);margin-top: 150px;}
+
+    .main_banner .sofa {min-height: auto;height: 530px;position: relative;transform: translateY(0px);}
+    .main_banner .sofa_img {position: relative;margin: 0 auto;bottom: -110px;}
+    .main_banner .sofa .text_sofa {position: relative;top: 90px;opacity: 1;transform: translateY(0vh);}
+    .main_banner .feed {height: auto;position: relative;transform: translateY(0px);padding: 0px 20px;margin-top: 100px;min-height: auto}
+    .main_banner .feed .left {float: left;width: auto;margin-top: 50px;margin-left: 0;width: 50%;}
+    .main_banner .feed .left h2 {font-size: 80px;}
+    .main_banner .feed .left p {font-size: 18px;line-height: 30px;}
+    .main_banner .feed .right {width: 50%;margin-top: 0;text-align: right}
+    .main_banner .feed .right img {max-width: 450px;margin: 0 auto;width: 100%;}
+
+    /* div hide */
+    .mehr_img .und_bg{display: none}
+    .mehr_img {display: none}
+    .erreichen {min-height: auto;height: auto;position: relative;transform: translateY(0px);padding: 0px 20px;margin-top: 175px;}
+    .erreichen .left {float: left;margin-top: 100px;margin-left: 0;width: 50%;}
+    .erreichen .right {float:right;width: 50%;margin-right: 0px;margin-top: 0px;}
+    .erreichen .left h2 {font-size: 65px;line-height: 70px;}
+    .erreichen .left h6 {font-size: 29.5px;margin-top: 10px;}
+    .erreichen .left p {font-size: 20px;margin-top: 20px;line-height: 30px;}
+    .bottom_section {width: 100%;height: auto;position: relative;background-color: #ffffff;transform: translateY(0px);margin-top: 50px;}
+    .vortel .section {height: auto;padding-bottom: 60px;padding-top: 60px;}
+    .vortel .section a{margin-bottom: 50px;}
+    .vortel .section h3 {font-size: 50px;line-height: 55px;}
+    .made_with {max-width: 100%;margin-left: 0;padding: 0px 20px;margin-top: 60px;margin-bottom: 50px;}
+    .made_with h2 {font-size: 50px;}
+    .made_with p {font-size: 24px;line-height: 32px;padding-top: 15px;}
+    .made_with h6 {font-size: 22px;margin-top: 20px;padding-left: 25px;margin-bottom: 43px;}
+    .made_with .in{width: 400px;}
+    .made_with_member {padding-top: 40px;}
+    .made_with_member .member .box{margin: 0px 15px;}
+
+    .footer {padding-bottom: 30px;}
+    .footer .footer_wrapper {padding: 0px 20px;}
+    .made_with_member .member {margin-bottom: 100px;}
+
+    .main_banner .stories .right .anim {top: 73px;right: 180px;width: 255px;}
+    .main_banner .your_readers .slider1 h2 {font-size: 70px;}
+    .main_banner .feed .right .anim {top: 60px;right: 34px;width: 250px;}
+    .ipad{display: block}
+    .made_with_member .member {margin-bottom: 0;padding-bottom: 120px;}
+    .main_banner .top_banner .right_section h3,.main_banner .top_banner .right_section a{display: block;}
+    .main_banner .top_banner .right_section h3{font-size: 30px;line-height: 32px;margin:10px 0px;margin-top: 25px; }
+    .main_banner .mob_set .right_section h2,.main_banner .mob_set .right_section .btn{display: none}
+    .main_banner .mob_set img{display: none}
+    .main_banner .mob_set .ipad{display: block;margin: 0 auto;max-width: 260px;}
+
+}
+
+@media only screen and (min-width:960px) and (max-width:1024px)
+{
+
+}
+
+@media only screen  and (max-width: 1023px)
+{
+    .main_banner .top_banner {height: 440px;}
+    .main_banner .top_banner .right_section {width: 55%;}
+    .main_banner .top_banner .right_section .mid {padding-top: 160px;}
+    .main_banner .top_banner .right_section h2 {font-size: 37px;}
+    .main_banner .full_screen h2 {font-size: 140px;}
+    .main_banner .full_screen{height: 400px;}
+    .main_banner .stories .right img {max-width: 230px;}
+
+    .main_banner .stories .left h2 {font-size: 60px;margin-top:150px;}
+    .main_banner .stories .left p {font-size: 18px;line-height: 25px;}
+    .main_banner .stories .left p br{display: none;}
+    .main_banner .your_readers{padding: 0px 20px;}
+    .main_banner .your_readers .slider1 {margin-top: 50px;}
+    .main_banner .your_readers .slider2 {margin-top: 60px;}
+    .main_banner .your_readers .slider3 .text {width: 50%;}
+    .main_banner .your_readers .slider3 .text h2 {font-size: 42px;line-height: 50px;}
+    .main_banner .your_readers .slider3 .s_img {text-align: right;width: 50%;padding-right: 50px;}
+    .main_banner .your_readers .slider3 {margin-top: 90px;}
+    .main_banner .sofa {height: 460px;}
+    .main_banner .sofa_img {bottom: -40px;}
+    .main_banner .feed {margin-top: 70px;}
+    .main_banner .feed .left h2 {font-size: 68px;}
+    .main_banner .feed .left p br{display: none;}
+    .mehr_img{height: 390px;}
+    .erreichen .left h2 {font-size: 48px;line-height: 50px;}
+    .erreichen .left {margin-top: 50px;}
+    .erreichen .left h6 {font-size: 21.5px;margin-top: 10px;}
+    .erreichen .left p br{display: none;}
+    .vortel .section h3 {font-size: 32px;line-height: 37px;}
+    .made_with .in {width: 350px;    padding-right: 10px;}
+    .made_with .submit {width: 337px;height: 70px;font-size: 19px;margin-left: 10px;}
+    .made_with_member .member .box {width: 140px;height: 230px;margin: 0px 5px;border-radius: 15px;}
+    .made_with_member .member {margin-bottom: 30px;}
+    .made_with_member h2 {margin-bottom: 60px;}
+
+    .main_banner .stories .right .anim {top: 46px;right: 162px;width: 167px;}
+    .main_banner .your_readers .slider1 h2 {font-size: 52px;}
+    .main_banner .feed .right .anim {top: 50px;right: 24px;width: 206px;}
+    .mehr_img .und{display: none;}
+    .erreichen .right .anim {width: 192px;right: 35px;top: 54px;}
+    .made_with_member .member {margin-bottom: 0;}
+
+    .main_banner .your_readers .slider1 h2 i img{max-width: 23px;}
+    .main_banner .your_readers .slider2 h2 {font-size: 50px;line-height: 60px;}
+    .main_banner .your_readers .slider2 #port {margin-left: 0;margin-right: 10px;}
+    .main_banner .your_readers .slider2 .s_img img {margin: 0px 10px;max-width: 100px;}
+    .main_banner .your_readers .slider3 .s_img img {max-width: 200px;}
+    .main_banner .top_banner .right_section .bottom_part{display: none;}
+}
+
+@media only screen and (max-width:767px)
+{
+
+
+
+    .main_banner .top_banner {height: auto; margin-bottom: 100px;}
+    .main_banner .top_banner .left_section img {left: -360px;}
+    .main_banner .top_banner .right_section {width: 100%; text-align: center;}
+    .main_banner .top_banner .right_section .mid {padding-top: 68px; display: block;}
+    .main_banner .top_banner .right_section h1 {font-size: 66px; line-height: 66px; padding-bottom: 25px;}
+    .main_banner .top_banner .right_section h1>div>div{opacity: 0; -o-transition: cubic-bezier(.77,0,.175,1) all 0.5s; -webkit-transition: cubic-bezier(.77,0,.175,1) all 0.5s; -moz-transition: cubic-bezier(.77,0,.175,1) all 0.5s; transition: cubic-bezier(.77,0,.175,1) all 0.5s;}
+    .main_banner .top_banner .right_section h2 {font-size: 27px; line-height: 21px; -o-transition: 0.4s ease all; -webkit-transition: 0.4s ease all; -moz-transition: 0.4s ease all; transition: 0.4s ease all; opacity: 0;}
+    .main_banner .top_banner .right_section.active h2 {opacity: 1;}
+    .main_banner .mob_set img {max-width: 320px;}
+    .main_banner .mob_set {margin-top: 10px; margin-bottom: 80px; padding-left: 0;}
+    .main_banner .mob_set .right_section {top: 40px;right: -10px;}
+    .main_banner .mob_set .right_section h2 {font-size: 20px;}
+
+    .main_banner .mob_set .right_section .btn {font-size: 11px;height: 40px;line-height: 40px;width: 143px;margin-top: 5px;border: 5px;}
+    .main_banner .mob_set .left_bottom h2 {font-size: 28px;}
+    .main_banner .mob_set .left_bottom h3 {font-size: 35px;margin-top: 0;line-height: 30px; text-align: left; padding-left: 27px;}
+    .main_banner .full_screen h2 {font-size: 70px;}
+    .main_banner .full_screen {height: 100vh;margin-top: 30px;}
+    .main_banner .stories .left,.main_banner .stories .right {width: 100%;float: none;}
+    .main_banner .stories .left h2 {font-size: 72px;margin-top: 65px;}
+    .main_banner .stories .left p {font-size: 19px;line-height: 34px;}
+    .main_banner .stories .right:after {width: 232px; height: 160px; right: -140px;}
+    .main_banner .stories .right{padding-top: 38px;padding-bottom: 0px;}
+    .main_banner .your_readers{padding-left: 27px;padding-right: 27px;min-height: auto}
+
+    .main_banner .your_readers .slider1 {margin-top: 25px;margin-left: 0;margin-right: 0px;max-width: 100%;}
+    .main_banner .your_readers .slider1 h2 {font-size: 40px; text-align: left;padding-top: 155px; line-height: 43px;}
+    .main_banner .your_readers .slider1 h2 br{display: none;}
+    .main_banner .your_readers .slider1 h2 i img{max-width: 16px;}
+    .main_banner .your_readers .slider2 {margin-top: 60px;max-width: 290px;margin-left: 0;margin-right: 0px;}
+    .main_banner .your_readers .slider2 #port { margin-left: 0px; max-width: 110px; text-align: right; margin: 0px 21px 13px auto; display: block;}
+    .main_banner .your_readers .slider2 h2 {margin-bottom: 30px;font-size: 40px;line-height: 43px;}
+    .main_banner .your_readers .slider2 .s_img img {margin: 0px 0px;max-width: 75px;}
+    .main_banner .your_readers .slider2 .s_img img:first-child {float: left;}
+    .main_banner .your_readers .slider2 .s_img img:last-child {float: right;}
+    .main_banner .your_readers .slider3 .s_img {text-align: center;padding-right:0px;float: none;margin-top: 0;width: 100%}
+    .main_banner .your_readers .slider3 .s_img img {max-width: 110px;}
+    .main_banner .your_readers .slider3 {margin-top: 40px;}
+    .main_banner .your_readers .slider3 .text {width: 100%;float: none;margin-top: 20px;}
+    .main_banner .your_readers .slider3 .text h2 {font-size: 22px;line-height: 25px;text-align: center;}
+    .main_banner .your_readers .slider1, .main_banner .your_readers .slider2,.main_banner .your_readers .slider3 {display: block;    margin: 0 auto;}
+    .main_banner .your_readers .slider1 .mid, .main_banner .your_readers .slider2 .mid,.main_banner .your_readers .slider3 .mid{display: block}
+    .main_banner .sofa_img img{max-width: 320px;}
+    .main_banner .sofa {height: 220px; display: block; height: 220px; margin-top: 140px; margin-bottom: 60px;}
+    .main_banner .sofa_img{bottom: 0px;}
+    .main_banner .sofa .text_sofa h2 {font-size: 85px;line-height: 101px;}
+    .main_banner .sofa .text_sofa h5 {font-size: 23px;line-height: 31px;}
+    .main_banner .sofa .text_sofa {top: 54px;}
+    .main_banner .feed .left,.main_banner .feed .right{float: none;width: 100%;}
+
+    .main_banner .feed .left{margin-top: 0px;text-align: center;margin-bottom: 85px;}
+    .main_banner .feed{display: block;margin-top: 210px; padding-left: 27px; padding-right: 27px;}
+    .main_banner .feed .left h5 {font-size: 32px; text-align: left;}
+    .main_banner .feed .left h2 {font-size: 66px; line-height: 90px; text-align: left; margin-bottom: 13px;}
+    .main_banner .feed .left p {font-size: 19px;line-height: 34px; text-align: left;}
+    .mehr_img {height: 170px;display: block;}
+    .erreichen .left,.erreichen .right{float: none;width: 100%;}
+    .erreichen .left h2 {font-size: 42px;line-height: 57px; text-align: left;padding-left: 7px;}
+    .erreichen .left h6 {font-size: 18px;margin-top: 0px; line-height: 25px; text-align: left; padding-left: 7px;}
+    .erreichen .left p {font-size: 19px; margin-top: 20px; line-height: 34px; text-align: left; padding-left: 7px;}
+    .bottom_section {margin-top: 60px;}
+    .vortel .section {padding-bottom: 50px;padding-top: 50px;}
+    .vortel .section a {margin-bottom: 20px;}
+    .vortel .section h3 ,.vortel .section.vortel3 h3{font-size: 16px;line-height: 20px;font-weight: 400;font-family: 'Avenir';max-width: 340px;}
+    .made_with {margin-top: 25px;margin-bottom: 70px; padding:0 27px;}
+    .made_with h2 {font-size: 44px;padding-top: 55px; line-height: 60px;}
+    .made_with p {font-size: 22px; line-height: 36px;padding-top: 10px;font-weight: 400;padding-bottom: 25px;}
+    .made_with p br{display: none;}
+    .made_with h6 {font-size: 18px; margin-top: 10px;padding-left: 28px;margin-bottom: 40px;}
+    .made_with h6 br{display: none;}
+    .made_with .in {width: 100%;height: 65px;padding-right: 10px;padding-left: 65px;}
+    .made_with .input:after {width: 30px; height: 22px; left: 22px;background-size: 100% 100%;}
+    .made_with .input{width: 100%    }
+    .made_with .submit {width: 100%;height: 65px;font-size: 18px; margin-left: 0; margin-top: 35px;}
+    .made_with_member {padding-top: 0;}
+    .made_with_member h2 img {vertical-align: top;display: inline-block;padding: 9px 10px 0px 7px;max-width: 57px;}
+    .made_with_member h2 small {font-size: 34px; line-height: 34px}
+    .made_with_member h2 small:last-child{display: block;}
+    .made_with_member h2 {margin-bottom: 56px; text-align: left; padding-left: 27px; padding-top: 55px;}
+    .made_with_member .member{text-align: left; max-width: 450px;margin: 0 auto;padding-bottom: 50px; padding-left: 27px; padding-right: 27px;}
+    .made_with_member .member .box{margin: 0px;width: calc(46.6% - 2px); height: 250px;}
+    .made_with_member .member .box:nth-child(2),.made_with_member .member .box:nth-child(4){margin-left: 20px;}
+    .made_with_member .member .box.even{ margin-top: 40px;}
+    .made_with ::-webkit-input-placeholder{color:#ccc;font-size:18px;font-weight:400;}
+    .made_with :-moz-placeholder{color:#ccc;font-size:18px;font-weight:400;}
+    .made_with ::-moz-placeholder{color:#ccc;font-size:18px;font-weight:400;}
+    .made_with :-ms-input-placeholder{color:#ccc;font-size:18px;font-weight:400;}
+    .made_with ::-ms-input-placeholder{color:#ccc;font-size:18px;font-weight:400;}
+    .made_with :placeholder-shown{color:#ccc;font-size:18px;font-weight:400;}
+    .footer .address {width: 100%; padding-left: 7px;}
+    .footer .footer_wrapper{position: relative;}
+    .footer .address p, .footer .address a {font-size: 19px; line-height: 34px;}
+    .footer .f_logo{width: 100%;}
+    .footer .f_logo a {margin-top: 45px; width: 219px;}
+    .footer .f_logo a img{max-width: 100%;}
+
+
+    .main_banner .top_banner .left_section img + img {left: -200px;}
+    .main_banner .mob_set .right_section h2 {font-size: 14px;}
+    .main_banner .mob_set .left_bottom h2 {font-size: 46px;padding-top: 40px; line-height: 55px;text-align: left; padding-left: 27px; margin-bottom: 10px;}
+    .main_banner .mob_set .left_bottom{padding-bottom: 0px;}
+    .main_banner .stories .right .anim {right: -12px;width: 215px;left: 0;margin: 0 auto; top: 59px;}
+    .main_banner .stories .right img{max-width: 300px;}
+    .main_banner .your_readers .slider2,.main_banner .your_readers .slider3{margin-top: 50px; text-align: center;}
+    .main_banner .your_readers .slider2{margin-top: 200px;}
+    .main_banner .feed .right .anim_wrap {display: block;position: relative;max-width: 320px;margin: 0 auto; position: relative; padding-top: 20px;}
+    .main_banner .feed .right .anim_wrap:after{position: absolute;content: '';left: -41px;right: 0;top: -30px;bottom: 0;background-image: url(../images/site/story_bg.png);background-repeat: no-repeat;z-index: -1;}
+    .main_banner .feed .right .anim {top: 80px;right: 0;width: 241px;left: 14px;margin: 0 auto;}
+    .erreichen .right .anim_wrap {display: block;position: relative;max-width: 320px;margin: 0 auto;}
+    .erreichen .right .anim_wrap:after{position: absolute;content: ''; left: -75px; right: 0; top: -30px;bottom: 0;background-image: url(../images/site/mob_mehr.png); background-repeat: no-repeat; z-index: -1;}
+    .erreichen .right .anim {width: 234px;right: 0;top: 59px;left: 13px;margin: 0 auto;}
+    .main_banner .top_banner .right_section h3 {font-size: 20px;line-height: 25px;margin: 10px 0px;margin-top: 15px;}
+    .main_banner .top_banner .right_section .btn {font-size: 14px;height: 45px;line-height: 45px;width: 200px;}
+    .main_banner .mob_set .ipad {margin: 0 auto;max-width: inherit;margin-top: 25px; max-width: 95%;}
+    .main_banner .stories .right .anim_wrap {max-width: 320px;margin: 0 auto;display: block;text-align: center;margin-top: 30px;}
+    .erreichen .left{margin-top: 0px;text-align: center;margin-bottom: 75px;}
+    .made_with_member .member .box {opacity: 1;visibility: visible;top: 0;}
+    .made_with_member .member .box h5 {font-size: 16px;line-height: 18px;padding-left: 20px;padding-bottom: 5px;}
+    .main_banner .arror_btn{display: none;}
+    .main_banner .top_banner .right_section h1 a.btn{top: 160px; left: 0; right: 0; margin-left: auto; margin-right: auto; height: 55px; line-height: 55px; width: 75%; font-size: 18px; margin-top: 0; transform: translateY(40px); transition: 0.5s ease all; opacity: 0;}
+    .main_banner .top_banner .right_section h1 a.btn.active{transform: translateY(0); opacity: 1;}
+    .main_banner .top_banner .left_section img{ display: none;}
+    .main_banner .top_banner .left_section img:last-child{display: block; width: 100%;height: auto;top: 0; left: 0; top: -290px; -o-transition: 0.4s ease all; -webkit-transition: 0.4s ease all; -moz-transition: 0.4s ease all; transition: cubic-bezier(.77,0,.175,1) .7s all;}
+    .main_banner .top_banner .left_section.active img:last-child{ top: -170px;}
+    .main_banner .top_banner .left_section{width: 100%; float: none; height: 100px; position: relative;}
+    /*.main_banner .top_banner .left_section:after{position: absolute; content: ''; width: 100%; height: 100%; right: 0; top: 0; background-image: url(../images/site/mob_top_1.png); background-repeat: no-repeat; background-position: right top; background-size:100% 100%;}*/
+    .main_banner .top_banner .right_section .bottom_part{display: block; transform: translateX(0); position: relative; margin-top: 13px; opacity: 0; -o-transition: 0.4s ease all; -webkit-transition: 0.4s ease all; -moz-transition: 0.4s ease all; transition: 0.4s ease all;}
+    .main_banner .top_banner .right_section .bottom_part.active{opacity: 1;}
+    .main_banner .feed .right .anim_wrap .for_deaktop{display: none;}
+    .main_banner .feed .right img.for_mob{display: block;}
+    .erreichen .right img.for_deaktop{display: none;}
+    .erreichen .right img.for_mob{display: block;}
+    .vortel .section.vortel3,.vortel .section.vortel2,.vortel .section.vortel1{height: 667px;}
+    .vortel .section h3, .vortel .section.vortel3 h3{ font-size: 33px; line-height: 45px;}
+    .vortel .section .mid{position: relative;}
+    .vortel .section a{position: absolute; left: 0; right: 0; top: 0; margin: 0 auto; width: 137px; font-size: 18px;}
+    .made_with h6:after{top: 1px;}
+    .main_banner .stories{padding:0 27px; transform: none}
+    
+    /* add */
+    .main_banner .mob_set img{opacity: 0;visibility: hidden;position: relative;top:50px;transition: 0.5s all ease;-webkit-transition:0.5s all ease;-moz-transition:0.5s all ease;-o-transition:0.5s all ease;transition-delay: 0.2s;}
+    .main_banner .mob_set.come-in img{opacity: 1;visibility: visible;top:0px;}
+    .main_banner .mob_set .left_bottom h2 strong{opacity: 0;visibility: hidden;position: relative;top:50px;transition: 0.5s all ease;-webkit-transition:0.5s all ease;-moz-transition:0.5s all ease;-o-transition:0.5s all ease;transition-delay: 0.2s;}
+    .main_banner .mob_set .left_bottom h2.come-in strong{opacity: 1;visibility: visible;top:0px;}
+    .main_banner .mob_set .left_bottom h3{opacity: 0;visibility: hidden;position: relative;transition: 0.5s all ease;-webkit-transition:0.5s all ease;-moz-transition:0.5s all ease;-o-transition:0.5s all ease;top:50px;transition-delay: 0.3s;}
+    .main_banner .mob_set .left_bottom h3.come-in{opacity: 1;visibility: visible;top:0px;}
+    .main_banner .stories .full_screen{transition: 0.5s all ease;-webkit-transition:0.5s all ease;-moz-transition:0.5 all ease;-o-transition:0.5s all ease;position: absolute;}
+    .main_banner .stories .full_screen.sticky{position: fixed;width: 100%;top:0px;left: 0px;right: 0px;opacity: 1;}
+    
+    .main_banner .stories .right:after{opacity: 0;visibility: hidden;transition: 0.5s all ease;-webkit-transition:0.5s all ease;-moz-transition:0.5s all ease;-o-transition:0.5s all ease;transition-delay: 0.5s;}
+    .main_banner .stories .right.come-in:after{opacity: 1;visibility: visible;}
+    .main_banner .your_readers .slider1 h2{opacity: 0;visibility: hidden;position: relative;top:20px;transition: 0.5s all ease;-webkit-transition:0.5s all ease;-moz-transition:0.5s all ease;-o-transition:0.5s all ease;transition-delay: 0.5s;}
+    .main_banner .your_readers .slider1 h2.come-in{opacity: 1;visibility: visible;top:0px;}
+    .main_banner .your_readers .slider2 #port{position: relative;right: 50px;transition: 0.5s all ease;-webkit-transition:0.5s all ease;-moz-transition:0.5s all ease;-o-transition:0.5s all ease;opacity: 0;visibility: hidden;transition-delay: 0.5s;}
+    .main_banner .your_readers .slider2 #port.come-in{right: 0px;opacity: 1;visibility: visible;}
+    .main_banner .your_readers .slider2 h2{opacity: 0;visibility: hidden;position: relative;top:20px;transition: 0.5s all ease;-webkit-transition:0.5s all ease;-moz-transition:0.5s all ease;-o-transition:0.5s all ease;transition-delay: 0.5s;}
+    .main_banner .your_readers .slider2 h2.come-in{opacity: 1;visibility: visible;top:0px;}
+    .main_banner .your_readers .slider2 .s_img img{opacity: 0;visibility: hidden;position: relative;top:50px;transition: 0.5s all ease;-webkit-transition:0.5s all ease;-moz-transition:0.5s all ease;-o-transition:0.5s all ease;transition-delay: 0.5s;}
+    .main_banner .your_readers .slider2 .s_img img.come-in{opacity: 1;visibility: visible;top:0px;}
+    .main_banner .sofa .text_sofa h5,.main_banner .sofa .text_sofa h2{opacity: 0;visibility: hidden;position: relative;top:-50px;transition: 0.5s all ease;-webkit-transition:0.5s all ease;-moz-transition:0.5s all ease;-o-transition:0.5s all ease;}
+    .main_banner .sofa .text_sofa h2{transition-delay: 0.3s;}
+    .main_banner .sofa .text_sofa h5.come-in,.main_banner .sofa .text_sofa h2.come-in{opacity: 1;visibility: visible;top:0px;}
+    .main_banner .feed .left h5,.main_banner .feed .left h2,.main_banner .feed .left p{opacity: 0;visibility: hidden;position: relative;top:50px;transition: 0.5s all ease;-webkit-transition:0.5s all ease;-moz-transition:0.5s all ease;-o-transition:0.5s all ease;}
+    .main_banner .feed .left h2{transition-delay: 0.5s;}
+    .main_banner .feed .left p{transition-delay: 0.5s;}
+    .main_banner .feed .left h5.come-in,.main_banner .feed .left h2.come-in,.main_banner .feed .left p.come-in{opacity: 1;visibility: visible;top:0px;}
+    .erreichen .left h2{opacity: 0;visibility: hidden;position: relative;top:50px;transition: 0.5s all ease;-webkit-transition:0.5s all ease;-moz-transition:0.5s all ease;-o-transition:0.5s all ease;transition-delay: 0.2s;}
+    .erreichen .left h2.come-in{opacity: 1;visibility: visible;top:0px;}
+    .erreichen .left h6{opacity: 0;visibility: hidden;position: relative;top:50px;transition: 0.5s all ease;-webkit-transition:0.5s all ease;-moz-transition:0.5s all ease;-o-transition:0.5s all ease;transition-delay: 0.2s;}
+    .erreichen .left h6.come-in{opacity: 1;visibility: visible;top:0px;}
+    .erreichen .left p{opacity: 0;visibility: hidden;position: relative;top:50px;transition: 0.5s all ease;-webkit-transition:0.5s all ease;-moz-transition:0.5s all ease;-o-transition:0.5s all ease;transition-delay: 0.4s;}
+    .erreichen .left p.come-in{opacity: 1;visibility: visible;top:0px;}
+    .vortel .section h3,.made_with h2,.made_with p,.made_with h6{opacity: 0;visibility: hidden;position: relative;top:50px;transition: 0.5s all ease;-webkit-transition:0.5s all ease;-moz-transition:0.5s all ease;-o-transition:0.5s all ease;transition-delay: 0.2s;}
+    .made_with p{transition-delay: 0.5s;}
+    .made_with h6{transition-delay: 0.7s;}
+    .vortel .section h3.come-in,.made_with h2.come-in,.made_with p.come-in,.made_with h6.come-in{opacity: 1;visibility: visible;top:0px;}
+    .made_with_member .member .box{transition: 0.5s all ease;-webkit-transition:0.5s all ease;-moz-transition:0.5s all ease;-o-transition:0.5s all ease;opacity: 0;visibility: hidden;position: relative;top:50px;}
+    .made_with_member .member .box.come-in{ opacity: 1;visibility: visible;top: 0px;}
+        
+
+}
+@media only screen and (orientation: landscape) and (max-width:767px)
+{
+
+}
+
+@media (max-height: 500px)
+{
+
+}
+@media (max-width:321px)
+{
+    .main_banner .top_banner .left_section.active img:last-child{top: -140px;}
+    .erreichen .right .anim { width: 73%;right: 0px;top: 52px;}
+    .vortel .section h3, .vortel .section.vortel3 h3{font-size: 30px;line-height: 41px; padding-left: 10px; padding-right: 10px}
+    .made_with h2{font-size: 42px;    line-height: 53px;}
+    .made_with{padding:0 20px;}
+    .made_with_member h2{padding-left: 0;}
+    .made_with_member .member{ padding-left: 0; padding-right: 0;}
+    .made_with_member .member .box:nth-child(2), .made_with_member .member .box:nth-child(4){margin-left: 7px;}
+    .main_banner .feed .right .anim { top: 69px;right: 2px;width: 72%;}
+    .erreichen .left h2{padding-left: 0;font-size: 34px;}
+    .made_with_member{padding: 0px 20px;}
+    .made_with_member .member .box {margin: 0px;width: 132px;}
+    .main_banner .mob_set .left_bottom h2{font-size: 38px; line-height: 44px; padding-left: 20px;}
+    .main_banner .mob_set .left_bottom h3{padding-left: 20px; font-size: 28px; line-height: 24px;}
+    .main_banner .full_screen h2{font-size: 55px;}
+    .main_banner .stories .left h2{font-size: 62px; line-height: 62px;}
+    .main_banner .stories{padding-left: 20px; padding-right: 20px;}
+    .main_banner .stories .right img{max-width: 100%}
+    .main_banner .stories .right .anim{right: 8px;width: 204px;left: 0;margin: 0 auto;top: 56px;}
+    .main_banner .your_readers{padding-left: 20px; padding-right: 20px;}
+    .main_banner .stories .right img{margin-left: -18px;}
+    .main_banner .your_readers .slider2 h2,.main_banner .your_readers .slider1 h2{font-size: 32px; line-height: 36px;}
+    .main_banner .sofa_img img{max-width: 300px;}
+    .main_banner .sofa .text_sofa h2{font-size: 75px;}
+    .main_banner .feed .left h2{font-size: 50px; line-height: 73px;}
+    .main_banner .feed .left h5{font-size: 29px;}
+}
